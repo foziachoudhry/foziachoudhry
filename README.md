@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Fozia
 
-<!--
-**foziachoudhry/foziachoudhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Presently immersed learning TypeScript.
+- 🧠 Currently CLI stuff using TypeScript.
+- 🌱 Always up for learning new things!
+- 💬 Open to talk about JavaScript and TypeScript.
+<!-- - 💼 Explore my [CV](link). -->
+- ✉️ For questions or help, drop me an [email](mailto:azeemcho640@gmail.com).
+<!-- - 🌐 Visit my [website](link). -->
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foziachoudhry/)
+
+## Stats
+
+[![wakatime](https://wakatime.com/badge/user/018ead9c-bdcd-4ef3-8f20-8bc900c27fcb.svg)](https://wakatime.com/@018ead9c-bdcd-4ef3-8f20-8bc900c27fcb)&nbsp; ![Profile views](https://komarev.com/ghpvc/?username=foziachoudhry&color=blue)
+
